@@ -14,3 +14,4 @@ statsmodels==0.14.0
 transformers==4.34.0
 evaluate==0.4.1
 datasets==2.14.5
+scikit-llm==1.0.0
