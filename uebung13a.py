@@ -67,3 +67,4 @@ prec, rec, f1, _ = precision_recall_fscore_support(
 
 print({"Precision": prec, "Recall": rec, "F1": f1})
 # {'Precision': 0.8709677419354839, 'Recall': 0.826530612244898, 'F1': 0.8481675392670157}
+# Can be even better!
